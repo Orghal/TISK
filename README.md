@@ -73,7 +73,7 @@ Your support means a lot — thank you! 💛
 
 ## 💼 Dawid Pintal's Development & Custom Automation
 
-I specialize in custom automation solutions for Excel, VBA, Python, and browsers (via Tampermonkey), and can help with a wide range of technical needs. Whether it's a personal project or business tool — I’m open to **any order in any budget**.
+I specialize in custom automation solutions for Excel, VBA, Python, and browsers (via Tampermonkey), and can help with a wide range of technical needs. Whether it's a personal project or business tool — I’m open to **any order in any budget**. User Interface/User Experience (UI/UX) is primary for me so you can be sure that all the solution can be very friendly and I help to make it better.
 
 In regards of cooperation, creating your own automation for you, making a project and help in this type of tools, contact me directly.
 
