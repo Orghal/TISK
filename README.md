@@ -24,7 +24,7 @@ Clean design, intuitive UI (User Interface), focus on UX (User Experience), brow
 - Optional dynamic tags: `%DateStamp%`, `%TimeStamp%`, `%URL%`
 - ⚠️ Not yet compatible with Messenger, Gmail, Yahoo, etc.
 
-## 📦 Package included?
+## 📦 Package include
 
 - `TISK.user.js` (Tampermonkey script)
 - `TISK v1.0.3 - Editor and Converter.xlsb` (Excel-based editor and AHK converter)
