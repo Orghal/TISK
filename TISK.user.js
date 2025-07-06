@@ -640,7 +640,7 @@ document.addEventListener('input', async function (e) {
     modal.innerHTML = `
     <div class="tm-modal-content">
         <h2>Text Insert Short-Keys Automation <small>(Firefox/Chrome)</small></h2>
-        <p>Version ` + VERSION + ` <small>(updated July 3, 2025)</small> for Tampermonkey extension</p>
+        <p>Version ` + VERSION + ` <small>(updated July 6, 2025)</small> for Tampermonkey extension</p>
         <hr>
         <p>Copyright (c) 2025 <a href="mailto:dmpintal@yahoo.com?subject=Contact from TISK ${VERSION} automation">Dawid Pintal</a>, All Rights Reserved<br>
         Basic concept, idea and beta-testing: Arnaud Guillon<br>
@@ -648,7 +648,7 @@ document.addEventListener('input', async function (e) {
         <hr>
         <p><b>Automation simplifies text entry</b> for <b>Firefox</b> or <b>Chrome</b> browser with <a href="https://adons.mozilla.org/en-US/firefox/search/?q=tampermonkey" target="_blank">Tampermonkey extension</a> installed. Started at June 30, 2025 as a small experiment and grow up to great idea as a guiding browser automation for everyone looking to make writing easier.</p>
         <p>Some tools and pages do not yet work with this feature, but developing be continued as long as you support the project and the initiative. For example due to <b>Facebook Messenger’s non-standard input system</b>, auto-insertions are currently not supported yet. All other editable text fields should work as expected.</p>
-        <p>This package contains a converter for scripts used by AutoHotKeys (AHK), which can no longer work properly in Windows 11 (official statement at the time of TISK release).<br>The converter and editor has been prepared for you as an Excel workbook using VBA programming. If you would like to have similar in another way let the Author know, he will take care of it immediately (link above).</p>
+        <p>This package contains a converter for scripts used by AutoHotKeys (AHK), which is a bit problematic in Windows 11 (official statement at the time of TISK first release).<br>The converter and editor has been prepared for you as an Excel workbook using VBA programming. If you would like to have similar in another way let the Author know, he will take care of it immediately (link above).</p>
         <p>Many features are in the development, and I hope that you will join my group of users with a small financial support, which will allow the continuation of this as well as many other projects that will be published soon. You can always catch the author on Messenger after early email contact.</p>
         <p><b>UI/UX</b> <em>(User Interface/User Experience)</em> are most important to me and automations are created to make your life easier and not to mess with the programming. Many websites have lack of it so let's improve it!</>
     </div>
