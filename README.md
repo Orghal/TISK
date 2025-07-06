@@ -67,10 +67,10 @@ Even **$5**, **$15** or $25 makes a huge difference and helps me continue buildi
 
 ** Quick links via Skrill:**
 
-💵 [Fast $5 via Skrill](https://www.skrill.com/app/send.pl?toname=Dawid%20Pintal&to=dmpintal@yahoo.com&amount=5&currency=USD)
-💵 [Fast $15 via Skrill](https://www.skrill.com/app/send.pl?toname=Dawid%20Pintal&to=dmpintal@yahoo.com&amount=15&currency=USD)
-💵 [Fast $25 via Skrill](https://www.skrill.com/app/send.pl?toname=Dawid%20Pintal&to=dmpintal@yahoo.com&amount=25&currency=USD)
-💵 [Fast $50 via Skrill](https://www.skrill.com/app/send.pl?toname=Dawid%20Pintal&to=dmpintal@yahoo.com&amount=50&currency=USD)
+💵 [Fast $5 via Skrill](https://www.skrill.com/app/send.pl?to=dmpintal@yahoo.com&amount=5&currency=USD)
+💵 [Fast $15 via Skrill](https://www.skrill.com/app/send.pl?to=dmpintal@yahoo.com&amount=15&currency=USD)
+💵 [Fast $25 via Skrill](https://www.skrill.com/app/send.pl?to=dmpintal@yahoo.com&amount=25&currency=USD)
+💵 [Fast $50 via Skrill](https://www.skrill.com/app/send.pl?to=dmpintal@yahoo.com&amount=50&currency=USD)
 
 Your support means a lot — thank you! 💛
 
