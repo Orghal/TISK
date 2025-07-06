@@ -4,7 +4,7 @@ Version: **1.0.3**
 
 ## 💡 What is TISK?
 
-TISK lets you define your own short-keys to allow you type faster (e.g., `_hi` → `Greetings from Amazon,`).
+TISK lets you define your own short-keys to allow you type faster (e.g., `_hi` → `Dear Customer,`).
 
 Expands user-defined short-key sequences into full phrases when typing, based on your own shortcuts and groups — or just converted script from AutoHotKeys (which is no longer supported properly in Windows 11, e.g. very slow, missing characters, waiting in one window to finish, etc.). 
 
