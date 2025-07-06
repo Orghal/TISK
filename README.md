@@ -6,7 +6,7 @@ Version: **1.0.3**
 
 TISK lets you define your own short-keys to allow you type faster (e.g., `_hi` → `Dear Customer,`).
 
-Expands user-defined short-key sequences into full phrases when typing, based on your own shortcuts and groups — or just converted script from AutoHotKeys (which is no longer supported properly in Windows 11, e.g. very slow, missing characters, waiting in one window to finish, etc.). 
+Expands user-defined short-key sequences into full phrases when typing, based on your own shortcuts and groups — or just converted script from AutoHotKeys (which is no longer supported properly in Windows 11, e.g. very slow, missing characters, waiting in one window to finish, etc.). Even if you continue to use and for you AHK works well, you can also use the benefits of TISK.
 
 Clean design, intuitive UI (User Interface), focus on UX (User Experience), browser accessibility, fast, productive, groups logic, and enjoyable to use even if not handle tool or website you use can generate what you want in own tool filter edit field.
 
