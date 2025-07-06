@@ -1,4 +1,4 @@
-# TISK – Text Insert Short-Keys Automation
+# TISK – Text Insert Short-Keys <span style="color:gray">Automation</span>
 
 Version: **1.0.3**
 
