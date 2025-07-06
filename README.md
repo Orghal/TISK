@@ -31,7 +31,9 @@ The current version includes:
 
 ## 🧩 Requirements
 
-- https://tampermonkey.net/
+- Extension directly: https://tampermonkey.net/
+- Firefox Mozilla: https://addons.mozilla.org/en-US/firefox/search/?q=tampermonkey
+- Chrome: https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 - Browser: Chrome / Firefox (other browsers untested)
 
 ## 💾 Installation
