@@ -2,7 +2,7 @@
 
 Version: **1.0.3**
 
-Instantly expands user-defined short-key sequences into full phrases when typing, based on your own shortcuts — or a converted script from AutoHotKeys (which is no longer supported properly in Windows 11). 
+Instantly expands user-defined short-key sequences into full phrases when typing, based on your own shortcuts — or a converted script from AutoHotKeys as an alternative. 
 
 Clean design, intuitive UI, browser accessibility, and a focus on smooth UX make this tool fast, productive, and enjoyable to use.
 
