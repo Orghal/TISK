@@ -50,36 +50,34 @@ You control and generate the code locally via Excel — no internet dependency, 
 ## 🙌 Support This Project
 
 If you enjoy **TISK – Text Insert Short-Keys**, consider a small contribution.
-Even **$5**, **$15** or $25 makes a huge difference and helps me continue building free tools like this also to create more functionalities in this tool 🙏.
+Even $5, $15 or $25 makes a huge difference and helps me continue building free tools like this also to create more functionalities in this tool 🙏. **$50 will be greatly appreciated** and will greatly advance the work on this tool and others.
 
 **💳 Available Support Options:**
 
-- 💰 **PayPal** (international): [paypal.me/DPintal](https://paypal.me/DPintal)
-- 📧 **Skrill** (preferred): dmpintal@yahoo.com
-- 🇵🇭  **GCash** / **Pay-Maya** (preferred in the Philippines): 0998 911 7852
+- 🅿️ **PayPal** (international): [paypal.me/DPintal](https://paypal.me/DPintal)
+- 💜 **Skrill** (preferred): dmpintal@yahoo.com
+- 🇵🇭  **GCash** / **Pay-Maya** (preferred in the Philippines): 0998 911 7852 (Name: Dawid Pintal)
 
-**💰 Quick links via PayPal:**
+**💰 Quick links to send:**
 
-💵 [Fast $5 via PayPal](https://www.paypal.com/donate/?business=DPintal&amount=5&currency_code=USD)
+**PayPal:** 💵 [Fast $5 via PayPal](https://www.paypal.com/donate/?business=DPintal&amount=5&currency_code=USD)
 💵 [Fast $15 via PayPal](https://www.paypal.com/donate/?business=DPintal&amount=15&currency_code=USD)
 💵 [Fast $25 via PayPal](https://www.paypal.com/donate/?business=DPintal&amount=25&currency_code=USD)
 💵 [Fast $50 via PayPal](https://www.paypal.com/donate/?business=DPintal&amount=50&currency_code=USD)
 
-** Quick links via Skrill:**
+**Skrill:** It is unfortunate that Skrill does not offer fast links, therefore, to send through Skill:
 
-💵 [Fast $5 via Skrill](https://www.skrill.com/app/send.pl?to=dmpintal@yahoo.com&amount=5&currency=USD)
-💵 [Fast $15 via Skrill](https://www.skrill.com/app/send.pl?to=dmpintal@yahoo.com&amount=15&currency=USD)
-💵 [Fast $25 via Skrill](https://www.skrill.com/app/send.pl?to=dmpintal@yahoo.com&amount=25&currency=USD)
-💵 [Fast $50 via Skrill](https://www.skrill.com/app/send.pl?to=dmpintal@yahoo.com&amount=50&currency=USD)
+Logging into Skrill → Going to "Send" / "Send to Email"<br>Typing: dmpintal@yahoo.com<br>Entering the amount
 
 Your support means a lot — thank you! 💛
 
 ## 💼 Dawid Pintal's Development & Custom Automation
 
-I specialize in custom automation solutions for Excel, VBA, Python, and browsers (via Tampermonkey), and can help with a wide range of technical needs.  
-Whether it's a personal project or business tool — I’m open to **any order in any budget**.
+I specialize in custom automation solutions for Excel, VBA, Python, and browsers (via Tampermonkey), and can help with a wide range of technical needs. Whether it's a personal project or business tool — I’m open to **any order in any budget**.
 
-📧 Contact me: `dmpintal@yahoo.com`  
+In regards of cooperation, creating your own automation for you, making a project and help in this type of tools, contact me directly.
+
+📧 Contact me: `dmpintal@yahoo.com`
 📹 Available for video, voice, or chat meetings
 
 ---
