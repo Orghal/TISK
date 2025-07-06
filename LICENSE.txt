@@ -1,0 +1,8 @@
+Free personal use at home and work.
+
+Note from the author:
+This script automation is free to use in home and work for your needs, but code, idea and UI/UX solutions here are proprietary and intended solely for internal usage. Unauthorized use, copying, modification, distribution, or disclosure outside the permitted environment is prohibited without written permission of Dawid Pintal.
+
+(c) 2025, Dawid Pintal
+All Rights Reserved 
+Contact: dmpintal@yahoo.com
