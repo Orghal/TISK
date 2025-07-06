@@ -2,15 +2,16 @@
 
 Version: **1.0.3**
 
-Instantly expands user-defined short-key sequences into full phrases when typing, based on your own shortcuts — or a converted script from AutoHotKeys as an alternative. 
-
-Clean design, intuitive UI, browser accessibility, and a focus on smooth UX make this tool fast, productive, and enjoyable to use.
-
 ## 💡 What is TISK?
 
-TISK lets you define your own short-keys (e.g., `_ty` → `Thank you!`) and automatically expands them while typing.
+TISK lets you define your own short-keys to allow you type faster (e.g., `_hi` → `Greetings from Amazon,`).
 
-The current version includes:
+Expands user-defined short-key sequences into full phrases when typing, based on your own shortcuts and groups — or just converted script from AutoHotKeys (which is no longer supported properly in Windows 11, e.g. very slow, missing characters, waiting in one window to finish, etc.). 
+
+Clean design, intuitive UI (User Interface), focus on UX (User Experience), browser accessibility, fast, productive, groups logic, and enjoyable to use even if not handle tool or website you use can generate what you want in own tool filter edit field.
+
+## 📌 Current version includes:
+
 - Automatic replacement of the defined sequence of characters with a text string in any form including multi-line.
 - Compatibility with Firefox, Chrome and most standard web tools, forms and editing fields.
 - Tool available in any corner offering to paste sequence along with the dynamic search filter for drop-down list.
@@ -52,7 +53,7 @@ You control and generate the code locally via Excel — no internet dependency, 
 ## 🙌 Support This Project
 
 If you enjoy **TISK – Text Insert Short-Keys**, consider a small contribution.
-Even $5, $15 or $25 makes a huge difference and helps me continue building free tools like this also to create more functionalities in this tool 🙏. **$50 will be greatly appreciated** and will greatly advance the work on this tool and others.
+Even $5, $15 or $25 makes a huge difference and helps me continue building free tools like this also to create more functionalities in this tool 🙏. **$50 will be greatly appreciated** and will seriously advance the work on this tool and others.
 
 **💳 Available Support Options:**
 
