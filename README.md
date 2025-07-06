@@ -1,2 +1,88 @@
-# TISK
-Instantly expands user-defined short-key sequences into full phrases when typing, based on your own shortcuts — or a converted script from AutoHotKeys (which is no longer supported properly in Windows 11)
+# TISK – Text Insert Short-Keys Automation
+
+Version: 1.0.3
+
+Instantly expands user-defined short-key sequences into full phrases when typing, based on your own shortcuts — or a converted script from AutoHotKeys (which is no longer supported properly in Windows 11). 
+
+Clean design, intuitive UI, browser accessibility, and a focus on smooth UX make this tool fast, productive, and enjoyable to use.
+
+## 💡 What is TISK?
+
+TISK lets you define your own short-keys (e.g., `_ty` → `Thank you!`) and automatically expands them while typing.
+
+The current version includes:
+- Automatic replacement of the defined sequence of characters with a text string in any form including multi-line.
+- Compatibility with Firefox, Chrome and most standard web tools, forms and editing fields.
+- Tool available in any corner offering to paste sequence along with the dynamic search filter for drop-down list.
+- Auto-extendable search filter field for larger and multi-lines sequences -> µEditor, with resizing point.
+- Hide/show toggle button as it is in every modern solution.
+- Full positioning tool for page corners with simple buttons.
+- Short-Keys grouping that allows you to create categories or multi-language shortcuts.
+- Memorize the position, selected group and hidden state of the tool when refreshing pages.
+- Trigger short-keys sequences after space or enter key at the end.
+- Optional dynamic tags: `%DateStamp%`, `%TimeStamp%`, `%URL%`
+- ⚠️ Not yet compatible with Messenger, Gmail, Yahoo, etc.
+
+## 📦 Package included?
+
+- `TISK.user.js` (Tampermonkey script)
+- `TISK v1.0.3 - Editor and Converter.xlsb` (Excel-based editor and AHK converter)
+- Built-in export tool to generate the Tampermonkey script from Excel
+
+## 🧩 Requirements
+
+- https://tampermonkey.net/
+- Browser: Chrome / Firefox (other browsers untested)
+
+## 💾 Installation
+
+1. Install Tampermonkey in your browser.
+2. Load the TISK.user.js script manually or export from Excel.
+3. Customize your shortcuts using the Excel editor and paste into the script.
+4. Paste your exported script into Tampermonkey (Control + V then Control + S) and reload the page – done!
+
+## 🛡 Security and data protection
+
+Your short-keys and content are stored locally. This script does **not send or upload** anything anywhere — it's 100% private and self-hosted via Tampermonkey. 
+
+You control and generate the code locally via Excel — no internet dependency, no privacy concerns.
+
+## 🙌 Support This Project
+
+If you enjoy **TISK – Text Insert Short-Keys**, consider a small contribution.
+Even **$5**, **$15** or $25 makes a huge difference and helps me continue building free tools like this also to create more functionalities in this tool 🙏.
+
+**💳 Available Support Options:**
+
+- 💰 **PayPal** (international): [paypal.me/DPintal](https://paypal.me/DPintal)
+- 📧 **Skrill** (preferred): dmpintal@yahoo.com
+- 🇵🇭  **GCash** / **Pay-Maya** (preferred in the Philippines): 0998 911 7852
+
+**💰 Quick links via PayPal:**
+
+💵 [Fast $5 via PayPal](https://www.paypal.com/donate/?business=DPintal&amount=5&currency_code=USD)
+💵 [Fast $15 via PayPal](https://www.paypal.com/donate/?business=DPintal&amount=15&currency_code=USD)
+💵 [Fast $25 via PayPal](https://www.paypal.com/donate/?business=DPintal&amount=25&currency_code=USD)
+💵 [Fast $50 via PayPal](https://www.paypal.com/donate/?business=DPintal&amount=50&currency_code=USD)
+
+** Quick links via Skrill:**
+
+💵 [Fast $5 via Skrill](https://www.skrill.com/app/send.pl?toname=Dawid%20Pintal&to=dmpintal@yahoo.com&amount=5&currency=USD)
+💵 [Fast $15 via Skrill](https://www.skrill.com/app/send.pl?toname=Dawid%20Pintal&to=dmpintal@yahoo.com&amount=15&currency=USD)
+💵 [Fast $25 via Skrill](https://www.skrill.com/app/send.pl?toname=Dawid%20Pintal&to=dmpintal@yahoo.com&amount=25&currency=USD)
+💵 [Fast $50 via Skrill](https://www.skrill.com/app/send.pl?toname=Dawid%20Pintal&to=dmpintal@yahoo.com&amount=50&currency=USD)
+
+Your support means a lot — thank you! 💛
+
+## 💼 Dawid Pintal's Development & Custom Automation
+
+I specialize in custom automation solutions for Excel, VBA, Python, and browsers (via Tampermonkey), and can help with a wide range of technical needs.  
+Whether it's a personal project or business tool — I’m open to **any order in any budget**.
+
+📧 Contact me: `dmpintal@yahoo.com`  
+📹 Available for video, voice, or chat meetings
+
+---
+
+Copyright (c) 2025 Dawid Pintal
+All Rights Reserved
