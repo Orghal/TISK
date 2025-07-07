@@ -26,8 +26,8 @@ Clean design, intuitive UI (User Interface), focus on UX (User Experience), brow
 
 ## 📦 Package include
 
-- `TISK.user.js` (Tampermonkey script)
-- `TISK v1.0.3 - Editor and Converter.xlsb` (Excel-based editor and AHK converter)
+- `TISK.user.js` (Tampermonkey script demo, your script bill be generated via Excel TISK Editor)
+- `TISK v1.0.3 - Editor and Converter.xlsb` (Excel-based editor and Tampermonkey code generator)
 - `TISK Short-Keys DB demo.tisk` (Shortkey Examples)
 - Built-in export tool to generate the Tampermonkey script from Excel
 
