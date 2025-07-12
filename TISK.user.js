@@ -502,6 +502,7 @@ document.addEventListener('input', async function (e) {
         border-radius: 4px;
         background-color: #ADD8E6;
         border: 1px solid #4F94CD;
+        color: black !important;
         cursor: pointer;
     `;
 
@@ -539,11 +540,11 @@ document.addEventListener('input', async function (e) {
 
     const groupInput = document.createElement('input');
     groupInput.type = "text";
-    groupInput.placeholder = "e.g., PL";
+    groupInput.placeholder = "Group";
     groupInput.id = "group_selector";
     groupInput.value = localStorage.getItem("tisk-group") || "";
     groupInput.style.cssText = `
-        width: 60px;
+        width: 48px;
         background: #FFF2CC;
         color: black;
         border: 1px solid #aaa;
@@ -560,7 +561,7 @@ document.addEventListener('input', async function (e) {
     // GROUP DROP-DOWN MENU
     const groupDropdown = document.createElement("select");
     groupDropdown.style.cssText = `
-        font-size: 10px;
+        font-size: 12px;
         padding: 2px 4px;
         border-radius: 3px;
         border: 1px solid #aaa;
