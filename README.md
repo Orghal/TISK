@@ -1,6 +1,6 @@
 # TISK – Text Insert Short-Keys
 
-Version: **1.0.3**
+Version: **1.0.4**
 
 ## 💡 What is TISK?
 
@@ -20,14 +20,20 @@ Clean design, intuitive UI (User Interface), focus on UX (User Experience), brow
 - Full positioning tool for page corners with simple buttons.
 - Short-Keys grouping that allows you to create categories or multi-language shortcuts.
 - Memorize the position, selected group and hidden state of the tool when refreshing pages.
+- Optional dynamic tags like dynamic Date Stamp by country `%DateStamp%`, dynamic hour `%TimeStamp%`, website url `%URL%`, your name '%USERNAME%'
+- World-class internationalization, e.g. Date Stamp.
 - Trigger short-keys sequences after space or enter key at the end.
-- Optional dynamic tags: `%DateStamp%`, `%TimeStamp%`, `%URL%`
+- Websites list to be disabled for TISK UI show.
+- Some additional bugs fixed.
+
+## 🐛 Known problems ##
+
 - ⚠️ Not yet compatible with Messenger, Gmail, Yahoo, etc.
 
 ## 📦 Package include
 
 - `TISK.user.js` (Tampermonkey script demo, your script bill be generated via Excel TISK Editor)
-- `TISK v1.0.3 - Editor and Converter.xlsb` (Excel-based Editor and Tampermonkey code generator)
+- `TISK v1.0.4 - Editor and Converter.xlsb` (Excel-based Editor and Tampermonkey code generator)
 - `TISK Short-Keys DB demo.tisk` (Short-Keys Examples saved from TISK Editor)
 - Built-in export tool to generate the Tampermonkey script from Excel
 
