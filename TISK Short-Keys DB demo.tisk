@@ -1,15 +1,15 @@
 ﻿`hi	Dear Customer,\n\n	
 `ty	Thank you for contacting me regarding my product.\n\n	
-`sign	Best Regards,\nSignature\nCustomer Support - World\n	
+`sign	Best Regards,\n{USERNAME}\nCustomer Support - World\n	
 `hi	Szanowny Kliencie,\n\n	pl
-`ty	Dziekuje za skontaktowanie sie w sprawie mojego produktu.\n\n	pl
-`sign	Serdecznie pozdrawiam,\nPodpis\nWsparcie Klienta - Swiat\n	pl
-`hi	Cher client,,\n\n	fr
-`ty	Merci de m'avoir contacté au sujet de mon produit..\n\n	fr
-`sign	Salutations distinguées,\nSignature\nCustomer Support - World\n	fr
+`ty	Dziękuję za skontaktowanie się w sprawie mojego produktu.\n\n	pl
+`sign	Serdecznie pozdrawiam,\n{USERNAME}\nWsparcie Klienta - Świat\n	pl
+`hi	Cher client,\n\n	fr
+`ty	Merci de m'avoir contacté au sujet de mon produit.\n\n	fr
+`sign	Salutations distinguées,\n{USERNAME}\nCustomer Support - World\n	fr
 `ts	Now is the hour %TimeStamp%.	
 `ds	Today is %DateStamp%.	
-`ts	Teraz mamy godzine %TimeStamp%.	pl
+`ts	Teraz mamy godzinę %TimeStamp%.	pl
 `ds	Dzisiaj mamy dzień %DateStamp%.	pl
 `ts	C'est l'heure %TimeStamp%.	fr
 `ds	Nous sommes aujourd'hui le %DateStamp%.	fr
